@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "198367418692",
+    "project_id": "e-commere-35ccb",
+    "storage_bucket": "e-commere-35ccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198367418692:android:382011820a58b19f48df11",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_audio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198367418692-h8s5ndu880v7lurgp8sr1la4rd1sf6lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwo--xYhtFohvNgkNKVvCEYmTEW6cRUQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198367418692-6mkhp2jm1r66m287cg8ea29p1btdoi0j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "198367418692-f0e2kskccp49m84aaebkib8rul8mtg3u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecommerceAudio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
